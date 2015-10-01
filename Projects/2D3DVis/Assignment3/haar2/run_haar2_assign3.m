@@ -1,0 +1,1 @@
+haar2_assign3('in', 'out', 'png');
